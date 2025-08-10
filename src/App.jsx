@@ -17,13 +17,13 @@ const brand = {
   ],
 };
 
-// ---- Short-form portfolio items (replace src with your mp4 links) ----
+// ---- Short-form portfolio items (compressed videos under 50MB) ----
 const videos = [
-  { id: 1, client: "OnlineMarketinges", src: "src/videos/Kreativitás telo start.mp4", brandColor: "#fabe24" },
-  { id: 2, client: "Zámbó Levente", src: "src/videos/Levente Időpont 2.mp4", brandColor: "#0056b3" },
-  { id: 3, client: "Samsung Experience Store", src: "src/videos/Galaxy Watch Ultra.mp4" , brandColor: "#ffffff" },
-  { id: 4, client: "Besenyei István", src: "src/videos/web.mp4", brandColor: "#88CE0F" },
-  { id: 5, client: "Shoprenter", src: "src/videos/Shoprenter 6.mp4", brandColor: "#B0DE00" },
+  { id: 1, client: "OnlineMarketinges", src: "src/videos/compressed/Kreativitás telo start_compressed.mp4", brandColor: "#fabe24" },
+  { id: 2, client: "Zámbó Levente", src: "src/videos/compressed/Levente Időpont 2_compressed.mp4", brandColor: "#0056b3" },
+  { id: 3, client: "Samsung Experience Store", src: "src/videos/compressed/Galaxy Watch Ultra_compressed.mp4" , brandColor: "#ffffff" },
+  { id: 4, client: "Besenyei István", src: "src/videos/compressed/web_compressed.mp4", brandColor: "#88CE0F" },
+  { id: 5, client: "Shoprenter", src: "src/videos/compressed/Shoprenter 6_compressed.mp4", brandColor: "#B0DE00" },
 ];
 
 
